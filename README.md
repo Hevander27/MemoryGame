@@ -39,6 +39,10 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+
+![Project 4 Memory Game - Imgur](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/c035fe0e-c4a4-4f7b-bd92-ea3b8eea3934)
+
+
 https://imgur.com/a/poo4r2L
 
 
